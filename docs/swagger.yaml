@@ -1,0 +1,9 @@
+basePath: /
+host: localhost:3000
+info:
+  contact: {}
+  description: Taskly backend API
+  title: Taskly API
+  version: "1.0"
+paths: {}
+swagger: "2.0"
